@@ -17,5 +17,6 @@ public class Main {
         }
         JOptionPane.showMessageDialog(null, "The temperature is acceptable, "+
                                                     "check again in 15 minutes time");
+
     }
 }
